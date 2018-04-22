@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     
     NSLog(@"拉取文件");
+    NSLog(@"这是项目A成员");
     return YES;
 }
 
